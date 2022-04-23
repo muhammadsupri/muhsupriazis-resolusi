@@ -2,4 +2,6 @@ Recana konten
 1. Konten Instagram 
    -Video tutorial
    -Reels
+   -Java Script
 2. Konten Youtube
+   -Python
