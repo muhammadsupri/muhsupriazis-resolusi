@@ -3,3 +3,6 @@ Resolusi tahun 2022
 2. Bisa membuat website blog
 3. Menguasai bahasa pembograman PHP 
 4. Menguasai freamwork laravel
+
+
+Saya rencana akan membuat aplikasi desa
