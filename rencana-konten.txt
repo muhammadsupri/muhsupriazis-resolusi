@@ -2,4 +2,7 @@ Recana konten
 1. Konten Instagram 
    -Video tutorial
    -Reels
+   -Angular
+   -React
 2. Konten Youtube
+   -Laravel
