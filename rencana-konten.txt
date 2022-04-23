@@ -3,5 +3,6 @@ Recana konten
    -Video tutorial
    -Reels
    -Java Script
+   -React
 2. Konten Youtube
    -Python
