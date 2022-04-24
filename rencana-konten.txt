@@ -4,5 +4,6 @@ Recana konten
    -Reels
    -Java Script
    -React
+   -angular
 2. Konten Youtube
    -Python
